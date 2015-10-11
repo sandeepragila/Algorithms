@@ -8,11 +8,10 @@
 import java.util.Scanner;
 
 /**
- * This program will calculate the min cost needed to conver a string to another 
+ * This program will calculate the min cost needed to convert a string to another 
  * by using operations like delete, insert and replace. 
  * 
  * @author Ragila Sandeep Kumar
- * @author Niharika Bandla 
  */
 public class stringConvert {
 
