@@ -23,7 +23,6 @@ class Point{
  * given polygon vertices 
  * 
  * @author Ragila Sandeep Kumar 
- * @author Niharika Bandla 
  */
 class Triangulation{
 
