@@ -12,7 +12,6 @@ import java.util.Scanner;
  * no three elements are consecutive 
  * 
  * @author Ragila Sandeep Kumar
- * @author Niharika Bandla 
  */
 public class NoThree {
 	static int[] arr;
