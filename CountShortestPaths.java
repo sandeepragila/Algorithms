@@ -11,7 +11,6 @@ import java.util.Scanner;
  * This class is to store all the edges as an adjacency list 
  * 
  * @author Ragila Sandeep Kumar
- * @author Niharika Bandla 
  */
 class Node1 {
 	int data;
