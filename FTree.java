@@ -13,7 +13,6 @@ import java.util.Scanner;
  * edges 
  * 
  * @author Ragila Sandeep Kumar 	
- * @author Niharika Bandla 
  */
 class edge{
 	int vert1;
