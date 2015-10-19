@@ -25,7 +25,6 @@ class Node1 {
  * source to destination 
  *  
  * @author Ragila Sandeep Kumar
- * @author Niharika Bandla 
  */
 class CountShortestPaths {
 	static Node1 list[];
